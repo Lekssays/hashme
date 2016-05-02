@@ -70,3 +70,4 @@ while $T > 0 do
 	end
 	$T -= 1
 end
+puts("Done :)")
